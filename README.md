@@ -4,4 +4,4 @@ Basic Streamlit Web App
 
 This is a simple web app created using Streamlit. 
 
-It shows the stock prices and a couple of related graphs of Google. 
+It shows the stock prices and a couple of related graphs of the stocks of Google. 
