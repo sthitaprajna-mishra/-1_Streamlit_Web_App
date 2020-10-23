@@ -1,7 +1,8 @@
-# -1_Streamlit_Web_App
+# streamlit_dp
 
-Basic Streamlit Web App
+All the projects committed here have been created using Streamlit. 
+These projects follow the tutorials of "Data Professor".
 
-This is a simple web app created using Streamlit. 
+Tutorial playlist link: https://bit.ly/dataprofessor-streamlit
 
-It shows the stock prices and a couple of related graphs of the stocks of Google. 
+
